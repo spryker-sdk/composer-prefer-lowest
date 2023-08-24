@@ -1,5 +1,5 @@
 {
-	"name": "dereuromark/composer-prefer-lowest",
+	"name": "spryker-sdk/composer-prefer-lowest",
 	"description": "Checks prefer-lowest more strictly. Add-on for CI.",
 	"type": "library",
 	"license": "MIT",
@@ -10,7 +10,7 @@
 		}
 	],
 	"require": {
-		"php": ">=7.3",
+		"php": ">=7.4",
 		"ext-json": "*",
 		"composer/semver": "^1.7 || ^2.0 || ^3.0"
 	},
